@@ -7,6 +7,7 @@ Introduction
 Welcome to my web developer portfolio! As a passionate web developer student, I’ve crafted this space to highlight my expertise, creativity, and dedication to the craft. Whether you’re a potential employer, collaborator, or fellow developer, I invite you to explore my work and get to know me better.
 
 Skills
+
 My toolkit includes:
 Front-End Development: HTML, CSS, JavaScript
 
